@@ -1,0 +1,4 @@
+echo "first commit" > fichier.txt
+git add fichier.txt
+git commit -m "first commit"
+git tag -a e137e9b -m "first commit"
