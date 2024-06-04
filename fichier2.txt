@@ -1,0 +1,3 @@
+echo "dossier2" > mon_fichier.txt
+git commit -am "dossier2"
+git tag -a 724004f -m "dossier2"
