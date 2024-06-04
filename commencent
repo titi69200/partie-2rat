@@ -1,0 +1,3 @@
+mkdir mon_depot_git
+cd mon_depot_git
+git init
