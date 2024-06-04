@@ -1,0 +1,15 @@
+echo "dossier1" > mon_fichier.txt
+git commit -am "dossier1"
+git tag -a 72ef4c2 -m "dossier1"
+
+echo "dossier2" > mon_fichier.txt
+git commit -am "dossier2"
+git tag -a 724004f -m "dossier2"
+
+echo "dossier3" > mon_fichier.txt
+git commit -am "dossier3"
+git tag -a 6aa096f -m "dossier3"
+
+echo "dossier4" > mon_fichier.txt
+git commit -am "dossier4"
+git tag -a 06a566f -m "dossier4"
